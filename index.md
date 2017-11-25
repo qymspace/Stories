@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Stories privacy policy
+Respect for your privacy is strong within us. 
 
-You can use the [editor on GitHub](https://github.com/qymspace/Stories/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1. ##We dont read your stories or whastapp messages
+All the stories shown on the application are yours. We have no access to any of your
+messages, images and other media. All data remain in your phone and when you
+delete them they are deleted.
+2. ##
+All the ads that show are from google only and can be trusted as much as you 
+trust google
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+***Thank you***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qymspace/Stories/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
